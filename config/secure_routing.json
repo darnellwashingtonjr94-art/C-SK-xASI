@@ -1,0 +1,16 @@
+{
+  "routing_policy": {
+    "security_level": "strict",
+    "cn_data_sovereignty": {
+      "cross_border_filter": true,
+      "pii_redaction": true,
+      "allowed_regions": ["cn-beijing", "cn-hangzhou"]
+    },
+    "sk_data_sovereignty": {
+      "k_localization_strict": true,
+      "allowed_regions": ["ap-northeast-2"]
+    },
+    "fallback_strategy": "ensemble_majority_vote",
+    "timeout_seconds": 12.0
+  }
+}
