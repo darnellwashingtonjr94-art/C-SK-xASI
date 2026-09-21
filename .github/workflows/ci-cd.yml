@@ -24,10 +24,11 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install pytest pytest-asyncio
 
       - name: Lint Code
         run: |
-          # Add linting commands here if required (e.g., flake8, ruff)
+          # Add linting commands here if required
           echo "Linting complete"
 
       - name: Run Async Unit Tests
