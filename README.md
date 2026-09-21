@@ -6,7 +6,7 @@
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Testing-Pytest-0A9EDC?logo=pytest&logoColor=white)
 
-### 🎒 The 5th Grade Explanation
+### 🎒 Explanation
 Imagine you have a big group of super-smart robot friends, but some live in China and some live in South Korea! 🇨🇳🇰🇷 If you ask them a question, they might speak different languages or have different rules. This project is like a super-smart walkie-talkie. 📻 You ask one question, and it talks to **all** the robots at the same time! It translates their languages, makes sure they follow the safety rules, and then mixes all their best ideas into one perfect answer just for you! ✨
 
 ---
