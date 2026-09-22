@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="IMG_4486.jpeg" alt="C-SK-Xasi Logo" width="600">
+</p>
+
 # C-SK-xASI 🌏🤖
 
 ### 💻 Tech Stack
